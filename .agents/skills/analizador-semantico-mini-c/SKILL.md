@@ -1,6 +1,6 @@
 ---
 name: analizador-semantico-mini-c
-description: Especificación del analizador semántico de Mini-C definida por Jesús Pinzón, Efraín Rosanía, Gustavo Reyes, Van Wu. Úsala para implementar, probar o corregir src/minic/semantic/symbol_table.py y src/minic/semantic/semantic_analyzer.py del proyecto modular minic: recibe el Program del parser y devuelve SemanticResult(symbols, diagnostics) con SEM001-SEM004.
+description: Especificación del analizador semántico de Mini-C definida por Jesús Pinzón, Efraín Rosanía, Gustavo Reyes, Van Wu, Justyn Contreras. Úsala para implementar, probar o corregir src/minic/semantic/symbol_table.py y src/minic/semantic/semantic_analyzer.py del proyecto modular minic: recibe el Program del parser y devuelve SemanticResult(symbols, diagnostics) con SEM001-SEM004.
 ---
 
 # Analizador semántico de Mini-C
